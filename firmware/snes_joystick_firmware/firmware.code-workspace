@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "snes_joystick_firmware",
+			"path": "."
+		},
+		{
+			"name": "test_firmware",
+			"path": "../../test_firmware"
+		}
+	],
+	"settings": {}
+}
